@@ -1,4 +1,4 @@
-# 📊 Análise de Dados de Vendas com Python /  Sales Data Analysis with Python
+# 📊 Análise de Dados de Vendas /  Sales Data Analysis 
 
 ---
 
