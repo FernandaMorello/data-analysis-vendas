@@ -55,13 +55,25 @@ The analysis was developed using  **Python, Pandas, and Matplotlib** , following
 ```
 data-analysis-vendas
 ├── data
-│   └── loja_pedidos.csv
-├── results
-│   ├── best_revenue_line.png
-│   ├── best_sellers_bar.png
-│   └── best_sellers_pie.png
-├── analysis.ipynb
-└── README.md
+│   ├── raw
+│   │   └── loja_pedidos.csv
+│   └── processed
+│       └── loja_pedidos_tratado.csv
+│
+├── notebooks
+│   └── analysis.ipynb
+│
+├── outputs
+│   ├── figures
+│   │   ├── best_revenue_line.png
+│   │   ├── best_sellers_bar.png
+│   │   └── best_sellers_pie.png
+│   └── reports
+│       └── top_10_sellers.xlsx
+│
+├── README.md
+└── requirements.txt
+
 ```
 
 ---
