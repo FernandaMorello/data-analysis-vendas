@@ -1,6 +1,4 @@
-# 📊 Análise de Dados de Vendas com Python
-
-# 📊 Sales Data Analysis with Python
+# 📊 Análise de Dados de Vendas / Sales Data Analysis
 
 ---
 
@@ -140,6 +138,7 @@ All visual outputs are automatically exported to the `results` directory.
 * Identificação de **picos de faturamento ao longo do tempo**
 
 ---
+
 ## 📤 Exportação de Dados | Data Export
 
 ### 🇧🇷 Exportação dos 10 Itens Mais Vendidos
@@ -147,9 +146,10 @@ All visual outputs are automatically exported to the `results` directory.
 Além das análises e visualizações, o projeto também realiza a **exportação dos 10 produtos mais vendidos** para um **arquivo Excel (.xlsx)**.
 
 O arquivo exportado contém:
-- Identificação do produto  
-- Quantidade total vendida  
-- Dados consolidados para uso em relatórios e análises externas  
+
+- Identificação do produto
+- Quantidade total vendida
+- Dados consolidados para uso em relatórios e análises externas
 
 Essa funcionalidade facilita o compartilhamento dos resultados com equipes de negócio e possibilita o uso dos dados em ferramentas como **Excel, Power BI e Google Sheets**.
 
@@ -162,9 +162,10 @@ O arquivo é gerado automaticamente durante a execução da análise e salvo no 
 In addition to the analyses and visualizations, the project also **exports the top 10 best-selling products** to an **Excel file (.xlsx)**.
 
 The exported file includes:
-- Product identification  
-- Total quantity sold  
-- Consolidated data ready for reporting and external analysis  
+
+- Product identification
+- Total quantity sold
+- Consolidated data ready for reporting and external analysis
 
 This feature allows easy data sharing with business teams and supports further analysis using tools such as **Excel, Power BI, and Google Sheets**.
 
