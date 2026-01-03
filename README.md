@@ -136,7 +136,7 @@ The following steps were performed to ensure analytical reliability:
 
 * **Top 10 produtos mais vendidos** – Bar Chart
 * **Top 10 produtos mais vendidos** – Pie Chart
-* **Top 10 produtos com maior receita** – Line Chart
+* **Análise semestral de receita (2024)** – Line Chart
 
 All visual outputs are automatically exported to the `results` directory.
 
