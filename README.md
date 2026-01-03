@@ -65,7 +65,7 @@ data-analysis-vendas
 │
 ├── outputs
 │   ├── figures
-│   │   ├── best_revenue_line.png
+│   │   ├── best_revenue_by_month.png
 │   │   ├── best_sellers_bar.png
 │   │   └── best_sellers_pie.png
 │   └── reports
